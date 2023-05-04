@@ -1,0 +1,14 @@
+.estado-por-aprobar {
+    color: red;
+}
+
+.estado-activo {
+    color: green;
+}
+
+.estado-inactivo {
+    color: blue;
+}
+
+
+
